@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2f19fb4.css",
+    "main.js": "/static/js/main.0fc0da03.js",
+    "static/media/landingPage.jpeg": "/static/media/landingPage.6d0434dc0eb8859f2a13.jpeg",
+    "static/media/iphone11-colored.jpg": "/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/spyder.jpg": "/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/watch.jpg": "/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "index.html": "/index.html",
+    "main.b2f19fb4.css.map": "/static/css/main.b2f19fb4.css.map",
+    "main.0fc0da03.js.map": "/static/js/main.0fc0da03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f19fb4.css",
+    "static/js/main.0fc0da03.js"
+  ]
+}
